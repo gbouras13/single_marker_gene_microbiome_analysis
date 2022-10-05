@@ -34,6 +34,7 @@ Other literatue
 
 * https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-019-1546-z
 * https://www.mdpi.com/2073-4425/11/2/139/htm
+* good review paper https://www.sciencedirect.com/science/article/pii/S0966842X08002679
 
 # Plan
 
